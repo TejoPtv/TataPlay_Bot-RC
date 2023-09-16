@@ -1,13 +1,13 @@
-api_id = 17193413
+api_id = 16995961
 
-api_hash = "5e50e6380252d9d487093bae4171bf91"
+api_hash = "8817a7d4293049593e60999359970ddd"
 
-bot_token = "6094200729:AAF7U2jM_T35Wb4nWdvPdndFNjtZ7oQeTTA"
+bot_token = "6318928824:AAHh6zslAa6U_vJhi_GvlY3j3ALnRnHzT8M"
 
 GROUP_TAG = "Toon Tv Telugu"
 
-sudo_users = [1606667548]
-
+sudo_users = [1640783367]
+              
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
 
